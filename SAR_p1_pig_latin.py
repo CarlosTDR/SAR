@@ -40,9 +40,7 @@ def piglatin_word(word):
             i += 1
         res = rest + prefix + 'ay'
         return res
-
-
-
+        
 
 def piglatin_sentence(sentence):
     """
