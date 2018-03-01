@@ -72,3 +72,5 @@ if __name__ == "__main__":
             else:
                 print(piglatin_sentence(input))
             pass
+
+        
